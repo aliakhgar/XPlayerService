@@ -1,4 +1,4 @@
-## Android First MediaPlayer Service Libaray
+## Android First MediaPlayer Service Libaray [NO LONGER MAINTAINED]
 
 You can find all documention in both Persiand and English language on [MrMaterial.ir](http://mrmaterial.ir) .
 
